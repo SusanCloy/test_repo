@@ -1,3 +1,3 @@
 Hello World!
 
-Git Rocks!
+This repo contains submissions for my course assignments
