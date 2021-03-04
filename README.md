@@ -1,2 +1,3 @@
-Hello World
-Git Rocks
+Hello World!
+
+Git Rocks!
